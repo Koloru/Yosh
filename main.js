@@ -1,5 +1,5 @@
 document.body.addEventListener('click', ()=>{
-  window.location.replace("https://www.youtube.com/watch?v=e05NDRsxL5Y")
+  window.location.replace("https://www.syko.cc/rushia")
 })
 
 const x = document.querySelector('video')
