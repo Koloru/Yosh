@@ -1,3 +1,3 @@
 // document.body.addEventListener('click', ()=>{
-//   window.location.replace("https://www.youtube.com/watch?v=e05NDRsxL5Y")
+//   window.location.replace("https://syko.cc/rushiabruh.mp4")
 // })
